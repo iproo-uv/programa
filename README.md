@@ -32,8 +32,8 @@ El curso se dictará en forma de clases magistrales y de ejercicios prácticos g
 6. Uso de APIs.  
 7. Estilo de programación.
 
-##Talleres
-Cada taller estará disponible como un repositorio de GitHub. El estudiante deberá abrir una cuenta en GitHub y por cada taller deberá hacer un Fork al repositorio correspondiente.
+##Talleres/Proyecto
+Cada asignación estará disponible como un repositorio de GitHub y será calificada sobre esta plataforma usando Travis CI para ejecutar un conjunto de pruebas unitarias y revisiones sobre el estilo y la sintaxis del código del estudiante, a parte de una revisión detallada por parte del profesor.
 
 
 
