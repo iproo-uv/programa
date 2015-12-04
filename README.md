@@ -12,12 +12,12 @@
 
 ##Objetivos
 Explicar la manera de resolver problemas usando métodos algorítmicos, y de implementar las soluciones en un lenguaje de programación orientado a objetos.Dentro de los objetivos específicos se tiene que el estudiante aprenda:  
-1. A analizar y explicar el comportamiento de programas sencillos, que involucren todas las construcciones de control fundamentales
-2. A abordar un problema, descomponiéndolo en pasos elementales, para solucionarlo. Desarrollar algoritmos para resolver problemas sencillos. Y a implementar, verificar y depurar esos algoritmos en un lenguaje orientado a objetos
-3. La filosofía de la programación orientada a objetos. A diseñar, codificar, verificar y depurar programas sencillos en un lenguaje orientado a objetos. Y a seleccionar y aplicar los patrones de programación mas apropiados para construir aplicaciones
-4. A identificar las estructuras de datos básicas que sirven para representar información y discutir cuando se debe emplear cada una
-5. El concepto de recursión. A escribir, verificar y depurar programas recursivos sencillos. Y como se implementa la recursión usando un stack
-6. A usar bibliotecas de funciones y APIs
+1. A analizar y explicar el comportamiento de programas sencillos, que involucren todas las construcciones de control fundamentales.
+2. A abordar un problema, descomponiéndolo en pasos elementales, para solucionarlo. Desarrollar algoritmos para resolver problemas sencillos. Y a implementar, verificar y depurar esos algoritmos en un lenguaje orientado a objetos.
+3. La filosofía de la programación orientada a objetos. A diseñar, codificar, verificar y depurar programas sencillos en un lenguaje orientado a objetos. Y a seleccionar y aplicar los patrones de programación mas apropiados para construir aplicaciones.
+4. A identificar las estructuras de datos básicas que sirven para representar información y discutir cuando se debe emplear cada una.
+5. El concepto de recursión. A escribir, verificar y depurar programas recursivos sencillos. Y como se implementa la recursión usando un stack.
+6. A usar bibliotecas de funciones y APIs.
 7. Un estilo de programación que el estudiante deberá emplear de ahora en adelante en todas las demás asignaturas que requieran programación. Y la importancia de mantener un estilo coherente, inteligible y elegante
 
 ##Metodología
