@@ -48,5 +48,7 @@ Cada asignación estará disponible como un repositorio de GitHub y será califi
 9. Analizar la salida del proceso automático de revisión de código
 10. Usted es libre de hacer todas las correcciones que considere necesario agregando commits al Pull Request hasta antes de la fecha límite.
 
+Si tiene alguna duda frente a las asignaciones puede contactar al resto del grupo usando el canal de gitter disponible en este repositorio.
+
 
 
