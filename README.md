@@ -1,4 +1,6 @@
 # Programa del curso
+
+[![Join the chat at https://gitter.im/iproo-uv/programa](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iproo-uv/programa?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 **Nombre del curso:** Introducción a la Programación Orientada a Objetos  
 **Código:** 750081M  
 **Habilitable:** No   
